@@ -1,0 +1,4 @@
+DELETE from cidade;
+insert into cidade (nome) values ('Joinville'); 
+insert into cidade (nome) values ('Jaragua');
+insert into cidade (nome) values ('Blumenau');
