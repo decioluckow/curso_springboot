@@ -1,5 +1,3 @@
-# curso_udesc
-
 Curso de REST API com Java e Spring Boot.
 
 Passos para criar o projeto do início.
